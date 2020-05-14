@@ -1,10 +1,10 @@
 ---
-title: "Chapter 14 Hysteresis Control Methods"
+title: "Automatic Fault Detection in a Cascaded Transformer Multilevel Inverter Using Pattern Recognition Techniques"
 authors:
-- Oswaldo Lopez-Santos
-- Diego F. Salazar-Dantonio 
-- Freddy Flores Bahamonde
-- Carlos A. Torres-Pinzón
+- Diego Salazar-D'antonio
+- Nohora Meneses-Casas
+- Manuel G. Forero
+- Oswaldo Lopéz-Santos
 date: "2019-07-01T00:00:00Z"
 doi: "10.1007/978-3-030-31332-6_33"
 
