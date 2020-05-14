@@ -35,12 +35,12 @@ featured: true
 # links:
 # - name: ""
 #   url: "https://link.springer.com/chapter/10.1007/978-3-030-00350-0_42"
-url_pdf: https://drive.google.com/file/d/1L8L3vf2xHqFDRCMZ2VAUmkGXVdjTjiQR/view?usp=sharing
+url_pdf: https://drive.google.com/file/d/1CYpRxvdgr-wEgFCkj2uHTVRqaL4bBc9v/view?usp=sharing
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: https://drive.google.com/file/d/1ClClFNgkJtGZZ-zfX2lkQbst4BSYMn-x/view?usp=sharing
+url_slides: ''
 url_source: ''
 url_video: ''
 
