@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 
 
 [[experience]]
-  title = "Visiting scholar"
+  title = "Research scholar"
   company = "Lehigh University"
   company_url = ""
   location = "Bethlehem, PA, US"
@@ -45,7 +45,7 @@ robots."""
   company_url = ""
   location = "Ibagué - Tolima, Colombia"
   date_start = "2017-07-01"
-  date_end = ""
+  date_end = "2019-12-01"
   description = """Collaborating in the research project: 'Planta piloto de microred híbrida MIREDHI-LAB: Una alternatíva de gestión inteligente de energía para aplicaciones rurales.'"""
 
 
