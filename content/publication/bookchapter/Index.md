@@ -4,7 +4,7 @@ authors:
 - Oswaldo Lopez-Santos
 - Diego F. Salazar-Dantonio 
 - Freddy Flores Bahamonde
-- Carlos A. Torres-Pinzón***
+- Carlos A. Torres-Pinzón
 date: ""
 doi: ""
 
