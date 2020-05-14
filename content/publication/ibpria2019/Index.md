@@ -35,7 +35,6 @@ tags:
 - power electronics
 - simulation
 - C++
-
 featured: false
 
 # links:

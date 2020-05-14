@@ -30,8 +30,6 @@ tags:
 - Automatic testing
 - LabVIEW
 - Computational tool
-- C++
-
 featured: true
 
 # links:
