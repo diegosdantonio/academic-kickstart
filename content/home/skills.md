@@ -14,22 +14,60 @@ subtitle = ""
 # 
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
-[[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
-  description = "90%"
   
+  [[feature]]
+  icon = "chalkboard-teacher"
+  icon_pack = "fas"
+  name = "Teaching"
+  description = "Five years of teaching experience."
+  
+  [[feature]]
+  icon = "user-tie"
+  icon_pack = "fas"
+  name = "Working"
+  description = "Three years working as engineer in Mexico "
+
 [[feature]]
+  icon = "user-friends"
+  icon_pack = "fas"
+  name = "Teamwork"
+  description = "Contributing, Creativity, Leadership, Helpfulness."
+    
+  
+  [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "Result oriented"
+  description = "Proactivity."
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "edit"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Writing"
+  description = "Experience in writing scientific paper and research reports."
+  
+[[feature]]
+  icon = "overleaf"
+  icon_pack = "ai"
+  name = "LaTeX"
+  #description = "100%"  
+  
+[[feature]]
+  icon = "file-code"
+  icon_pack = "far"
+  name = "Programmin in"
+  description = "Phyton, ROS, MATLAB, C, C++, Assembler."
+
+[[feature]]
+  icon = "cubes"
+  icon_pack = "fas"
+  name = "Design 3D models"
+  description = "Solidworks, Rino, Sketchup."
+
+[[feature]]
+  icon = "bicycle"
+  icon_pack = "fas"
+  name = "Mountain bike"
+  description = "This is my hobby - I usually drive to office on bicycle."
 
 +++
