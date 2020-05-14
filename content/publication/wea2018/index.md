@@ -3,7 +3,7 @@ title: "Computational Tool for Simulation and Automatic Testing of a Single-Phas
 authors:
 - Oswaldo López-Santos
 - Julian Corredor
-- admin
+- Diego Salazar-D'antonio
 date: "2018-07-01T00:00:00Z"
 doi: "10.1007/978-3-030-00350-0_42"
 
