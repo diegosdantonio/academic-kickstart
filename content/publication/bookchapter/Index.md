@@ -28,8 +28,8 @@ summary: This chapter illustrates the use of hysteresis control techniques appli
 
 tags:
 - Cascaded multilevel inverter
-- Hysteresis
-- Simulation
+- Automatic testing
+- LabVIEW
 - Computational tool
 featured: true
 
