@@ -31,7 +31,7 @@ tags:
 - Computational tool
 - Machine-Learning
 - Python
-featured: true
+featured: false
 
 # links:
 # - name: ""
