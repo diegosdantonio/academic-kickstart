@@ -1,15 +1,15 @@
 ---
-title: "Chapter 14 - Hysteresis Control Methods"
+title: "Automatic Fault Detection in a Cascaded Transformer Multilevel Inverter Using Pattern Recognition Techniques"
 authors:
-- Oswaldo Lopez-Santos
-- Diego F. Salazar-Dantonio 
-- Freddy Flores Bahamonde
-- Carlos A. Torres-Pinzón
-date: ""
-doi: ""
+- Diego Salazar-D'antonio
+- Nohora Meneses-Casas
+- Manuel G. Forero
+- Oswaldo Lopéz-Santos
+date: "2019-07-01T00:00:00Z"
+doi: "10.1007/978-3-030-31332-6_33"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: ""
+publishDate: "2018-07-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -21,10 +21,10 @@ publication_types: ["1"]
 publication: "Lecture Notes in Computer Science"
 publication_short: ""
 
-abstract: This chapter illustrates the use of hysteresis control techniques applied to multilevel inverters. Firstly, a general classification of different methods applied to control multilevel inverters is presented considering three main point-of-view: according to the switching frequency (fundamental frequency and high frequency), according to the related application (grid-tie and stand-alone) and according to the kind of control they use (linear and nonlinear). Into this frame, the contents of the chapter introduces the hysteresis-based control methods presenting an overview of the existing literature. Thus, both hysteresis current control (HCC) and hysteresis voltage control (HVC) are considered to illustrate the use of the technique in grid- connected and stand-alone applications, respectively. In the case of HCC, the three more relevant techniques are detailed: Multiband (MB) HCC, Multi off-set band (MOB) HCC and Time-based (TB) HCC. Similarly, for HVC, two methods are explained: multiband (MB) HVC and hysteresis voltage regulation (HVR). Finally, based on the overview of the existing techniques, an alternative HVC method is proposed for first time in this chapter. This control can be classified as a low- frequency adaptive hysteresis band technique suitable for stand-alone applications. The theoretical fundaments of the control are provided using a particular topology of transformer based cascade multilevel inverter selected as a case study. Validation of the technique effectiveness is supported using simulation results in which the control ensures the output voltage shape by changing the number of output levels from 27 to 35 and simultaneously adapting the wide of the hysteresis band according with the input voltage and load conditions.
+abstract: Cascade transformer multilevel inverters (CT-MLI) are DC–AC converters used in medium and high power applications to provide standardized AC output. Despite their numerous advantages and robustness, these devices are highly susceptible to fault events because of their high amount of components. Therefore, early failure detection enables turning off the power system avoiding the propagation of the fault to the connected loads. Beyond that, converter operation can be reconfigured to tolerate the fault and activate a fail lag facilitating the subsequent corrective maintenance. The techniques proposed so far required several sensors, which is not practical. Therefore, in this study, we propose an automatic fault detection algorithm for cascade multilevel inverters based on pattern recognition, that only requires a sensor located at the output of the inverter. Naive Bayes, decision tree, nearest neighbor, and support vector machine were tested as classifiers using cross validation. The proposed method showed high detection accuracy when all the obtained descriptors were employed, being the K-NN the classifier showing superior performance. Furthermore, an evaluation was developed to determine the minimum number of descriptors required for the effective operation of the detection system, reducing the computational costand simplifying its implementation. The method was validated by using simulation results obtained from a multilevel inverter circuit model.
 
 # Summary. An optional shortened abstract.
-summary: This chapter illustrates the use of hysteresis control techniques applied to multilevel inverters. Firstly, a general classification of different methods applied to control multilevel inverters is presented considering three main point-of-view: according to the switching frequency (fundamental frequency and high frequency), according to the related application (grid-tie and stand-alone) and according to the kind of control they use (linear and nonlinear). Into this frame, the contents of the chapter introduces the hysteresis-based control methods presenting an overview of the existing literature. Thus, both hysteresis current control (HCC) and hysteresis voltage control (HVC) are considered to illustrate the use of the technique in grid- connected and stand-alone applications, respectively. In the case of HCC, the three more relevant techniques are detailed: Multiband (MB) HCC, Multi off-set band (MOB) HCC and Time-based (TB) HCC. Similarly, for HVC, two methods are explained: multiband (MB) HVC and hysteresis voltage regulation (HVR). Finally, based on the overview of the existing techniques, an alternative HVC method is proposed for first time in this chapter. This control can be classified as a low- frequency adaptive hysteresis band technique suitable for stand-alone applications. The theoretical fundaments of the control are provided using a particular topology of transformer based cascade multilevel inverter selected as a case study. Validation of the technique effectiveness is supported using simulation results in which the control ensures the output voltage shape by changing the number of output levels from 27 to 35 and simultaneously adapting the wide of the hysteresis band according with the input voltage and load conditions.
+summary: Cascade transformer multilevel inverters (CT-MLI) are DC–AC converters used in medium and high power applications to provide standardized AC output. Despite their numerous advantages and robustness, these devices are highly susceptible to fault events because of their high amount of components. Therefore, early failure detection enables turning off the power system avoiding the propagation of the fault to the connected loads. Beyond that, converter operation can be reconfigured to tolerate the fault and activate a fail lag facilitating the subsequent corrective maintenance. The techniques proposed so far required several sensors, which is not practical. Therefore, in this study, we propose an automatic fault detection algorithm for cascade multilevel inverters based on pattern recognition, that only requires a sensor located at the output of the inverter. Naive Bayes, decision tree, nearest neighbor, and support vector machine were tested as classifiers using cross validation. The proposed method showed high detection accuracy when all the obtained descriptors were employed, being the K-NN the classifier showing superior performance. Furthermore, an evaluation was developed to determine the minimum number of descriptors required for the effective operation of the detection system, reducing the computational costand simplifying its implementation. The method was validated by using simulation results obtained from a multilevel inverter circuit model.
 
 tags:
 - automatic fault detection
@@ -42,7 +42,7 @@ featured: false
 url_pdf: https://drive.google.com/file/d/1dI_VPMTT-8UR1_6PFKQqGLejVF_Dab2y/view?usp=sharing
 url_code: ''
 url_dataset: ''
-url_poster: ''
+url_poster: https://drive.google.com/file/d/1ErrgURXvtSAijlHOSRta2kaWQAsUOkD5/view?usp=sharing
 url_project: ''
 url_slides: ''
 url_source: ''
@@ -50,7 +50,7 @@ url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-image: 
+image:
   caption: ''
   focal_point: ""
   preview_only: false
@@ -69,4 +69,5 @@ image:
 #   Otherwise, set `slides: ""`.
 #slides: example
 ---
+
 
