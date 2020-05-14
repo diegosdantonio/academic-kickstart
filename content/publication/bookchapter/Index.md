@@ -31,6 +31,8 @@ tags:
 - Automatic testing
 - LabVIEW
 - Computational tool
+- PSIM
+- Simulation
 featured: true
 
 # links:
