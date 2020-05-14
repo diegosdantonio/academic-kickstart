@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Assistant professor
+role: Visiting Research Scholar
 
 # Organizations/Affiliations
 organizations:
-- name: Universidad de Ibagué, Colombia
-  url: "https://www.unibague.edu.co/"
+- name: CSE, Lehigh University, US
+  url: "https://engineering.lehigh.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include robotics systems, power electronics and advanced control strategies.
@@ -70,7 +70,7 @@ social:
 #   link: https://drive.google.com/file/d/1cLvQb9oe7LSownHyC2hA0GqO0C8ioIdD/view
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "fernando.salazar@unibague.edu.co"
+email: "diego.s.dantonio@lehigh.edu"
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
