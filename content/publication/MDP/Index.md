@@ -3,7 +3,7 @@ title: "Continuous Simulation of the Power Flow in AC–DC Hybrid Microgrids Usi
 authors:
 - Oswaldo López-Santos
 - María C. Salas-Castaño
-- Diego Salazar-D'antonio
+- Diego S. D'Antonio
 date: "2020-04-01T00:00:00Z"
 doi: "10.3390/computation10040052"
 

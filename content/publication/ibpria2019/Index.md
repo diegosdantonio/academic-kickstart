@@ -1,7 +1,7 @@
 ---
 title: "Automatic Fault Detection in a Cascaded Transformer Multilevel Inverter Using Pattern Recognition Techniques"
 authors:
-- Diego Salazar-D'antonio
+- Diego S. D'Antonio
 - Nohora Meneses-Casas
 - Manuel G. Forero
 - Oswaldo Lopéz-Santos
