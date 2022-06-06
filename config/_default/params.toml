@@ -22,7 +22,7 @@ font = "rose"
 
 # Choose a font size.
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
-font_size = "M"
+font_size = "L"
 
 ############################
 ## Basic Info
@@ -41,7 +41,7 @@ local_business_type = ""
 
 # Organization name (optional)
 # Enter an organization or project name. Defaults to the site title from `config.toml`.
-org_name = "Diego Salazar D'antonio"
+org_name = "Diego Salazar D'Antonio"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
 description = ""
