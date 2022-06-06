@@ -35,7 +35,7 @@ tags:
 - Computational tool
 - PSIM
 - Simulation
-featured: true
+featured: false
 
 # links:
 # - name: ""

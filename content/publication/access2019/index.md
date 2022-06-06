@@ -35,7 +35,7 @@ tags:
 - transformer-based multilevel inverter
 - Computational tool
 
-featured: true
+featured: false
 
 # links:
 # - name: ""

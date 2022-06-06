@@ -1,11 +1,11 @@
 ---
-title: "In editor revision: Development of a Real-time Simulation for AC-DC Hybrid Microgrids"
+title: "Continuous Simulation of the Power Flow in AC–DC Hybrid Microgrids Using Simplified Modelling"
 authors:
+- Oswaldo López-Santos
 - María C. Salas-Castaño
 - Diego Salazar-D'antonio
-- Oswaldo López-Santos
 date: "2020-04-01T00:00:00Z"
-doi: ""
+doi: "10.3390/computation10040052"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2018-07-01T00:00:00Z"
@@ -32,12 +32,12 @@ tags:
 - LabVIEW
 - Computational tool
 - Simulation
-featured: true
+featured: false
 
 # links:
 # - name: ""
 #   url: "https://link.springer.com/chapter/10.1007/978-3-030-00350-0_42"
-url_pdf: https://drive.google.com/file/d/1CYpRxvdgr-wEgFCkj2uHTVRqaL4bBc9v/view?usp=sharing
+url_pdf: https://www.mdpi.com/2079-3197/10/4/52/htm
 url_pdf: ''
 url_code: ''
 url_dataset: ''

@@ -2,7 +2,6 @@
 title: "The Catenary Robot: Design and Control of a Cable Propelled by Two Quadrotors"
 authors:
 - admin
-- Oswaldo Lopez-Santos
 - Gustavo A. Cardona
 - David Saldaña
 
