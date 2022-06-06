@@ -76,13 +76,10 @@ user_groups:
 - Visitors
 ---
 
-Electronic engineer entrepreneur, self-taught, responsible, creative and goal-oriented. 
-He is a Ph.D. Student in Computer Science & Engineering at Lehigh University under the supervision of 
-**["Prof. David Saldaña"](http://davidsaldana.co/)**.. 
-He belongs to **["Swarms lab"](http://swarmslab.com/)** and 
+Electronic engineer entrepreneur, self-taught, responsible, creative and goal-oriented. He is a Ph.D. Student in Computer Science & Engineering at Lehigh University under the supervision of 
+**["Prof. David Saldaña"](http://davidsaldana.co/)**. He belongs to **["Swarms lab"](http://swarmslab.com/)** and 
 **["Autonomous and Intelligent Robotics Laboratory AIRLab"](https://robotics.lehigh.edu/)** 
-at Lehigh University.  
-He is a candidate to earn an MSc. in control engineering at the University of Ibague, Colombia, under the direction of **["Prof. Oswaldo Lopez"](https://scholar.google.com/citations?user=ICaDWRsAAAAJ&hl)**. in 
+at Lehigh University. He is a candidate to earn an MSc. in control engineering at the University of Ibague, Colombia, under the direction of **["Prof. Oswaldo Lopez"](https://scholar.google.com/citations?user=ICaDWRsAAAAJ&hl)**. in 
 He received his BSc. degree in electronic engineering. 
 
 He worked for a company called “Ideas Disruptivas” in Mexico, where, as a project manager, he helped develop the first Mexican 3D printer with a clear educational purpose. The most outstanding project I have worked on is called “pretty hand,” where a mechanical-electronic hand was designed for people needing hand prosthesis; it was a low-cost social project.
