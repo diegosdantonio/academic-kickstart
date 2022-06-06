@@ -30,6 +30,9 @@ interests:
 
 education:
   courses:
+  - course: Ph. D. in Computer science and engineering   
+    institution: Lehigh University
+    year: 2025
   - course: Master in control engineering
     institution: Universidad de Ibagué
     year: 2019

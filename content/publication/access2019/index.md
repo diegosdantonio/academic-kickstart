@@ -3,7 +3,7 @@ title: "A Single-Phase Transformer-Based Cascaded Asymmetric Multilevel Inverter
 authors:
 - Oswaldo Lopez-Santos
 - Carlos A. Jacanamejoy-Jamioy
-- admin
+- Diego S. D'Antonio
 - J.R. Corredor-Ramírez
 - G. Garcia
 - L. Martinez-Salamero
