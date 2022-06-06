@@ -70,7 +70,7 @@ Development of innovation projects based on technology and 3D printing, support 
   """
   
   [[experience]]
-  title = "Assistant professor"
+  title = "Teacher assistant"
   company = "Universidad de Ibagué"
   company_url = ""
   location = "Ibagué - Tolima, Colombia"
@@ -81,7 +81,7 @@ Assistant professor teaching: precalculus, mechanical physics and differential c
   """
 
 [[experience]]
-  title = "Research assistant student"
+  title = "Research assistant undergrad student"
   company = "Universidad de Ibagué"
   company_url = ""
   location = "Ibagué - Tolima, Colombia"
