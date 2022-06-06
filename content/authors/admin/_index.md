@@ -21,13 +21,11 @@ organizations:
 bio: My research interests include robotics systems, aerial robots and advanced control strategies.
 
 interests:
-- Robotic systems
+- Multi-rotor systems, self-assembly algorithms, cooperative flying robots.
 - Quadcopters
-- Control systems
+- Manipulation with deformable objects.
+- Robot motion planning
 - Advanced control strategies
-- Microgrids
-- Hierarchical control
-- Multilevel inverters
 
 
 education:
@@ -47,7 +45,7 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:fernando.salazar@unibague.edu.co".
-- icon: linked-in
+- icon: linkedin-in
   icon_pack: fa
   link: https://www.linkedin.com/in/diegosdantonio/
 - icon: researchgate
