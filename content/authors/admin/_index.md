@@ -77,16 +77,15 @@ user_groups:
 ---
 
 Electronic engineer entrepreneur, self-taught, responsible, creative and goal-oriented. 
-He is a Ph.D. Student in Computer Science & Engineering at Lehigh University. 
-He belongs to **["Swarms lab"](http://swarmslab.com/)** and **["Autonomous and Intelligent Robotics Laboratory AIRLab"](https://robotics.lehigh.edu/)** at Lehigh University. Under the supervision of **["Prof. David Saldaña"](http://davidsaldana.co/)**. He is a candidate to earn an MSc. in control engineering at the University of Ibague, Colombia, under the direction of **["Prof. Oswaldo Lopez"](https://scholar.google.com/citations?user=ICaDWRsAAAAJ&hl)**. in 
+He is a Ph.D. Student in Computer Science & Engineering at Lehigh University under the supervision of 
+**["Prof. David Saldaña"](http://davidsaldana.co/)**.. 
+He belongs to **["Swarms lab"](http://swarmslab.com/)** and 
+**["Autonomous and Intelligent Robotics Laboratory AIRLab"](https://robotics.lehigh.edu/)** 
+at Lehigh University.  
+He is a candidate to earn an MSc. in control engineering at the University of Ibague, Colombia, under the direction of **["Prof. Oswaldo Lopez"](https://scholar.google.com/citations?user=ICaDWRsAAAAJ&hl)**. in 
 He received his BSc. degree in electronic engineering. 
 
 He worked for a company called “Ideas Disruptivas” in Mexico, where, as a project manager, he helped develop the first Mexican 3D printer with a clear educational purpose. The most outstanding project I have worked on is called “pretty hand,” where a mechanical-electronic hand was designed for people needing hand prosthesis; it was a low-cost social project.
 
 During my master’s degree, I was chair of the IEEE student branch chapter and chair industrial application society at the University of Ibague.
 
-# Electronic engineer entrepreneur, self-taught, responsible, creative and goal-oriented. He received his BSc. degree in electronic engineering. He is candidate to earn his MSc. in control engineering at the university of Ibague, Colombia, where he is currently a professor in the faculty of engineering. This MSc. program in control engineering has been created as a result of a fruitful academic cooperation between the university of ibaguè, the Catholic University of Leuven **["KULeuven"](https://www.kuleuven.be/english//)** and the University of ghent UGent **["UGent"](https://www.ugent.be/)** in Belgium.
-
-
-
-# He worked for a company called **["Ideas Disruptivas"](https://ideasdisruptivas.com/)** in Mexico, where as a project manager he helped develop the first Mexican 3D printer, with a clear educational purpose. The most outstanding project I have worked for, is called “pretty hand”, where a mechanical-electronic hand was designed for people needing hand prosthesis; it was a low-cost social project. He is currently chair of IEEE student branch chapter and chair industrial application society at the university of Ibague. His current research topics include power electronics, robustness and advanced control, renewable energy systems, where he has written several papers. He is fond of robotic systems.
