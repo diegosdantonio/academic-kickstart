@@ -48,7 +48,7 @@ social:
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:fernando.salazar@unibague.edu.co".
 - icon: linkedin
-  icon_pack: fas
+  icon_pack: ai
   link: https://www.linkedin.com/in/diegosdantonio/
 - icon: researchgate
   icon_pack: ai
