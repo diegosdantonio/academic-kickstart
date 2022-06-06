@@ -56,12 +56,6 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?hl=es&user=cYEQ0RgAAAAJ
-- icon: orcid
-  icon_pack: fab
-  link: https://orcid.org/0000-0003-1856-1749
-- icon: overleaf
-  icon_pack: ai
-  link: https://www.overleaf.com
 - icon: ieee
   icon_pack: ai
   link: https://www.ieee.org
@@ -91,8 +85,8 @@ He worked for a company called “Ideas Disruptivas” in Mexico, where, as a pr
 
 During my master’s degree, I was chair of the IEEE student branch chapter and chair industrial application society at the University of Ibague.
 
-#Electronic engineer entrepreneur, self-taught, responsible, creative and goal-oriented. He received his BSc. degree in electronic engineering. He is candidate to earn his MSc. in control engineering at the university of Ibague, Colombia, where he is currently a professor in the faculty of engineering. This MSc. program in control engineering has been created as a result of a fruitful academic cooperation between the university of ibaguè, the Catholic University of Leuven **["KULeuven"](https://www.kuleuven.be/english//)** and the University of ghent UGent **["UGent"](https://www.ugent.be/)** in Belgium.
+# Electronic engineer entrepreneur, self-taught, responsible, creative and goal-oriented. He received his BSc. degree in electronic engineering. He is candidate to earn his MSc. in control engineering at the university of Ibague, Colombia, where he is currently a professor in the faculty of engineering. This MSc. program in control engineering has been created as a result of a fruitful academic cooperation between the university of ibaguè, the Catholic University of Leuven **["KULeuven"](https://www.kuleuven.be/english//)** and the University of ghent UGent **["UGent"](https://www.ugent.be/)** in Belgium.
 
 
 
-#He worked for a company called **["Ideas Disruptivas"](https://ideasdisruptivas.com/)** in Mexico, where as a project manager he helped develop the first Mexican 3D printer, with a clear educational purpose. The most outstanding project I have worked for, is called “pretty hand”, where a mechanical-electronic hand was designed for people needing hand prosthesis; it was a low-cost social project. He is currently chair of IEEE student branch chapter and chair industrial application society at the university of Ibague. His current research topics include power electronics, robustness and advanced control, renewable energy systems, where he has written several papers. He is fond of robotic systems.
+# He worked for a company called **["Ideas Disruptivas"](https://ideasdisruptivas.com/)** in Mexico, where as a project manager he helped develop the first Mexican 3D printer, with a clear educational purpose. The most outstanding project I have worked for, is called “pretty hand”, where a mechanical-electronic hand was designed for people needing hand prosthesis; it was a low-cost social project. He is currently chair of IEEE student branch chapter and chair industrial application society at the university of Ibague. His current research topics include power electronics, robustness and advanced control, renewable energy systems, where he has written several papers. He is fond of robotic systems.
