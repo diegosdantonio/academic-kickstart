@@ -20,13 +20,22 @@ date_format = "Jan 2006"
 
 
 [[experience]]
-  title = "Research scholar"
+  title = "Ph.D. Student"
+  company = "Lehigh University"
+  company_url = ""
+  location = "Bethlehem, PA, US"
+  date_start = "2021-08-01"
+  date_end = ""
+  description = """Currently studying the manipulation of the objects by using aerial robots and cables."""
+
+[[experience]]
+  title = "Visiting scholar"
   company = "Lehigh University"
   company_url = ""
   location = "Bethlehem, PA, US"
   date_start = "2019-02-01"
-  date_end = ""
-  description = """Research assistant: Study and analyze physical interaction between aerial
+  date_end = "2021-08-01"
+  description = """Research assistant: Study and analyze physical interaction between aerial and objects.
 robots."""
 
 

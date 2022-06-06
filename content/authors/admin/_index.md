@@ -10,15 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: Visiting Research Scholar
+role: Ph.D. Student
 
 # Organizations/Affiliations
 organizations:
 - name: CSE, Lehigh University, US
-  url: "https://engineering.lehigh.edu/"
+  url: "https://engineering.lehigh.edu/cse/faculty/grad-students"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include robotics systems, power electronics and advanced control strategies.
+bio: My research interests include robotics systems, aerial robots and advanced control strategies.
 
 interests:
 - Robotic systems
@@ -47,6 +47,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:fernando.salazar@unibague.edu.co".
+- icon: linkedin
+  icon_pack: fa
+  link: https://www.linkedin.com/in/diegosdantonio/
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Diego_Salazar-Dantonio
