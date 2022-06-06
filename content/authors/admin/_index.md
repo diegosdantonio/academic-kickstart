@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Diego S. D'antonio
+name: Diego S. D'Antonio
 
 # Username (this should match the folder name)
 authors:
@@ -44,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:fernando.salazar@unibague.edu.co".
+  link: '#contact'  # For a direct email link, use "mailto:diego.s.dantonio@lehigh.edu".
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/diegosdantonio/
