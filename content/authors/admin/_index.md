@@ -50,7 +50,7 @@ social:
   link: https://www.linkedin.com/in/diegosdantonio/
 - icon: github
   icon_pack: fab
-  link: https://www.linkedin.com/in/diegosdantonio/  
+  link: https://github.com/diegosdantonio/ 
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Diego_Salazar-Dantonio
@@ -82,4 +82,3 @@ Electronic engineer entrepreneur, self-taught, responsible, creative and goal-or
 He worked for a company called **[Ideas Disruptivas](https://ideasdisruptivas.com/)** in Mexico, where, as a project manager, he helped develop the first Mexican 3D printer with a clear educational purpose. The most outstanding project I have worked on is called **[pretty hand](https://diegosdantonio.netlify.app/project/prettyhand/)** where a mechanical-electronic hand was designed for people needing hand prosthesis; it was a low-cost social project.
 
 During my master’s degree, I was chair of the IEEE student branch chapter and chair industrial application society at the University of Ibague.
-
